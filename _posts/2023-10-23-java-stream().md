@@ -1,15 +1,13 @@
 ---
 
 layout: single
-title:  "first Posting!"
+title:  "List 데이터를 Java의 stream()과 람다표현식으로 그룹화하는 법"
 typora-root-url: ../
 ---
 
 
 
 # 제목
-
-# List 데이터를 Java의 stream()과 람다표현식으로 그룹화하는 법
 
 <script src="https://gist.github.com/XOHW91/b4bcc3a39ea49b160a18e70b8cf0fcc3.js"></script>
 
