@@ -1,17 +1,17 @@
----
+--
 
 layout: single
-title:  "List 데이터를 Java의 stream()과 람다표현식으로 그룹화하는 법"
-typora-root-url: ../
+
+title:  "데이터를 Java의 stream()과 람다표현식으로 그룹화하는 법"
 ---
 
+typora-root-url: ../
 
-
-# 제목
+--
 
 <script src="https://gist.github.com/XOHW91/b4bcc3a39ea49b160a18e70b8cf0fcc3.js"></script>
 
-- 쿼리 결과로 총 20줄을 반환 > rating_result_id로 그룹화하여 데이터 처리를 해야하는 상황
+ 쿼리 결과로 총 20줄을 반환 > rating_result_id로 그룹화하여 데이터 처리를 해야하는 상황
 
   - stream()과 람다를 사용하면 원하는 요소를 기준으로 데이터를 그룹화할 수 있음. 
 
