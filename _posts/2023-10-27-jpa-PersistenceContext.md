@@ -4,9 +4,7 @@ title:  "JPA PersistenceContext"
 typora-root-url: ../
 ---
 
-
-
-1. ###  Member INSERT
+# 1. Member Insert
 
 ![20231027_173437](/images/2023-10-27-jpa-PersistenceContext/20231027_173437-1698396336988-2.jpg)
 
@@ -14,17 +12,23 @@ typora-root-url: ../
 
 
 
-2. ###  조회
+###  
+
+# 2. 조회
 
 <script src="https://gist.github.com/XOHW91/9f276cbf37331bafc5b1ac484442d6aa.js"></script>
 
-3. ### PersistenceContext (영속성 컨텍스트)
-   
-   - "엔티티를 영구 저장하는 환경"
-   
-   - 엔티티 매니저를 통해서 영속성 컨텍스트에 접근
-   
-     
+
+
+# 3. PersistenceContext (영속성 컨텍스트)
+
+
+
+- "엔티티를 영구 저장하는 환경"
+
+- 엔티티 매니저를 통해서 영속성 컨텍스트에 접근
+
+  
 
 ```
 // 비영속
@@ -67,13 +71,14 @@ em.remove(member);
 ```
 
 - 준영속 : 회원 엔티티를 영속성 컨텍스트에서 분리한 상태
+
 - 삭제 : 객체를 삭제한 상태
 
+  
 
+  
 
-
-
-4. ###  PersistenceContext (영속성 컨텍스트)의 이점
+# 4. PersistenceContext (영속성 컨텍스트)의 이점 
 
 ```
 Member member = new Member();
