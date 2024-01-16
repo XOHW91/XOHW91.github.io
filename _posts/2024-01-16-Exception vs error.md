@@ -2,6 +2,7 @@
 layout: single
 title:  "Exception"
 typora-root-url: ../
+
 ---
 
 
@@ -25,7 +26,7 @@ typora-root-url: ../
 
 - 체크 예외는 try~catch로 예외를 잡아서 처리하거나 throws 예외를 필수로 선언해야 한다. 그렇지 않으면 컴파일 오류가 남
 
--  특징 : 
+- 특징 : 
 
   - RuntimeException 상속을 받지 않았다.
 
@@ -70,7 +71,6 @@ public class CheckedExceptionExample {
 - 예외 발생 시 런타임 중지(프로그램종료)가 된다. 예를 들면 NullException이나 Index length에 대한 오류 
 
 ```
-
 public class UncheckedExceptionExample {
     public static void main(String[] args) {
         try {
