@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "말랑말랑 개발일기"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "희원"
-description              : "An amazing website."
+title_separator          : "|"
+subtitle                 : "small positive action"
+name                     : "hw Note"
+description              : "아직은 왕감자🥔 개발자"
 url                      : "https://XOHW91.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : XOHW91/XOHW91.github.io# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
