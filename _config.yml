@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "XOHW Note"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "아직은 왕감자🥔인 개발자의 블로그입니다!"
+  location         : "South Korea"
+  email            : "so91062412@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
