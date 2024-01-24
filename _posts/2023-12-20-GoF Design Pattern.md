@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "GoF Design Pattern"
+title:  "[CS] GoF Design Pattern"
 ---
 
 

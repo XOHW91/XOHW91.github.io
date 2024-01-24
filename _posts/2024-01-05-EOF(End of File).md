@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "EOF(End of File)"
+title:  "[Java] EOF(End of File)"
 typora-root-url: ../
 ---
 

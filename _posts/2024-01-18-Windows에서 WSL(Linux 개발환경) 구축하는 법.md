@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Windows에서 WSL(Linux 개발환경) 구축하는 법"
+title:  "[Server] Windows에서 WSL(Linux 개발환경) 구축하는 법"
 typora-root-url: ../
 ---
 
@@ -97,7 +97,6 @@ Windows 키 + Pause 를 눌러서 시스템 창을 키고, 시스템 > 선택적
 
   ⚠️ **su 명령어와의 차이점?**  sudo와는 다르게 현재 사용자 계정에서 다른 사용자로 전환하는 데 사용됨. 기본적으로 `root`계정으로 전환되는 데 사용됨. (root 비번 필요) 
   
-
 - **sudo apt update :** APT (Advanced Package Tool) 패키지 관리시스템을 업데이트하는 명령어. 이 명령어를 실행하면 시스템의 패키지 목록이 최신 상태로 업데이트 됨. 이 과정을 통해 사용자는 최신 소프트웨어 및 보안 업데이트를 적용할 수 있음. 
   ![image-20240118094255817](/images/2024-01-18-HTTP-API-설계예시/image-20240118094255817.png)
 

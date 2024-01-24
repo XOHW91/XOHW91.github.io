@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "OPTIMIZE TABLE"
+title:  "[DB] OPTIMIZE TABLE"
 typora-root-url: ../
 ---
 

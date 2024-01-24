@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title:  "데이터를 Java의 stream()과 람다표현식으로 그룹화하는 법"
+title:  "[Java] 데이터를 Java의 stream()과 람다표현식으로 그룹화하는 법"
 typora-root-url: ../
 ---
 
