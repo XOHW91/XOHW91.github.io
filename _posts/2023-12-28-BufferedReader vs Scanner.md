@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "BufferedReader vs Scanner"
+title:  "[Java] BufferedReader vs Scanner"
 ---
 
 백준을 풀다보면 사용자에게 값을 입력받아서 처리하는 경우가 대부분이다.

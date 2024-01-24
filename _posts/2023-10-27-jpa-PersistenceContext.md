@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "JPA PersistenceContext"
+title:  "[Java] JPA PersistenceContext"
 typora-root-url: ../
 ---
 

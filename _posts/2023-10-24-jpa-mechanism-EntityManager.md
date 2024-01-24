@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "JPA mechanism"
+title:  "[Java] JPA mechanism"
 ---
 
 <script src="https://gist.github.com/XOHW91/9e3e52de6b91ca4ac39c601a03c9032d.js"></script>

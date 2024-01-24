@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "동시성(Concurrency) 이슈"
+title:  "[Issue] 동시성(Concurrency) 이슈"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Exception"
+title:  "[Java] Exception"
 typora-root-url: ../
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Scanner / BufferedReader / DecimalFormat / Math.pow()"
+title:  "[Java] Scanner / BufferedReader / DecimalFormat / Math.pow()"
 typora-root-url: ../
 ---
 
